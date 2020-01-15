@@ -11,7 +11,6 @@ blacklist=http://emol.com
 disable_navigation_bar=yes
 disable_private_mode=no
 password_manager=no
-#browser_preferences=https://raw.githubusercontent.com/csolarz/totem/master/chrome-policies.txt
 screen_rotate=right
 zRAM=50%
 hide_mouse=yes
