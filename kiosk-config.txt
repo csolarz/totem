@@ -15,3 +15,6 @@ screen_rotate=right
 zRAM=50%
 hide_mouse=yes
 right_mouse_click=no
+browser_zoom_level=1.0
+disable_zoom_controls=yes
+allow_popup_windows=no
