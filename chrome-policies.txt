@@ -1,1 +1,4 @@
-"DeveloperToolsDisabled": false
+"DeveloperToolsDisabled": false,
+"DeveloperToolsAvailability": 1, 
+"DeveloperToolsDisallowedForForceInstalledExtensions": 0,
+"DeveloperToolsAllowed": 1,
