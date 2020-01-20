@@ -1,14 +1,19 @@
-#################
+######## CABLE - DCHP ###########
 connection=wired
 dhcp=yes
-################
+######## CABLE - MANUAL #########
 #connection=wired
 #ip_address=
-################
+######## WIFI - WPA #############
 #wifi_encryption=wpa
 #wpa_password=parauco0717
 #ssid_name=Visita_ParqueArauco
-###############
+######## IDENTIFICADOR ##########
+# espacios no permitidos
+# solo se puede enviar 1 parametro
+hostname=pak-ripley-1
+homepage_append=hostname
+#################################
 browser=chrome
 kiosk_config=https://raw.githubusercontent.com/csolarz/totem/master/kiosk-wired.txt
 homepage=https://kiosko-dev.parauco.com
