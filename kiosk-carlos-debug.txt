@@ -17,7 +17,6 @@ browser_preferences=https://raw.githubusercontent.com/csolarz/totem/master/chrom
 screen_rotate=left
 additional_components=uefi.zip
 zRAM=50%
-swapfile=4096
 gpu_driver=default
 #enable_file_protocol=yes
 #hide_mouse=no
